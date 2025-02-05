@@ -24,7 +24,24 @@ Welcome to my **Tableau** repository! 🚀 This is where I store my interactive 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ## 🔥 Featured Projects
-📌 **Project Name:** A brief description of what this visualization showcases.
+# 🎵 Spotify Dashboard
+
+Check out my interactive **Spotify Data Dashboard** by clicking the image below:
+
+[![Spotify Dashboard](https://public.tableau.com/static/images/Sp/Spotify_17387839936240/Dashboard1/1.png)](https://public.tableau.com/views/Spotify_17387839936240/Dashboard1)
+
+> *Click the image to open the interactive version on Tableau Public.*
+
+# 🌍 Global Health Trends Dashboard
+
+Check out my interactive **Global Health Trends Dashboard** by clicking the image below:
+
+[![Global Health Trends Dashboard](https://public.tableau.com/static/images/Gl/GlobalHealthTrends/Dashboard1/1.png)](https://public.tableau.com/views/GlobalHealthTrends/Dashboard1)
+
+> *Click the image to open the interactive version on Tableau Public.*
+
+
+
 
 ## 📈 How to Use
 1. Download the `.twbx` or `.twb` files.
