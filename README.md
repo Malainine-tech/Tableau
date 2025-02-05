@@ -24,6 +24,15 @@ Welcome to my **Tableau** repository! 🚀 This is where I store my interactive 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ## 🔥 Featured Projects
+# 🏠 Airbnb in NYC Analysis Dashboard
+
+Check out my interactive **Airbnb in NYC Analysis Dashboard** by clicking the image below:
+
+[![Airbnb in NYC Dashboard](https://public.tableau.com/static/images/AI/AIRBNBinNYCanalysis/Dashboard1/1.png)](https://public.tableau.com/views/AIRBNBinNYCanalysis/Dashboard1)
+
+> *Click the image to open the interactive version on Tableau Public.*
+
+
 # 🎵 Spotify Dashboard
 
 Check out my interactive **Spotify Data Dashboard** by clicking the image below:
